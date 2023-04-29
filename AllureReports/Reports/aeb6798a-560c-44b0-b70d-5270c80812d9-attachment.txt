@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Login:test_login_param.py:49 Test case Started
+[32mINFO    [0m Test_Login:test_login_param.py:50 Opneing url -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m Test_Login:test_login_param.py:56 Enter Username -->Admin1
+[32mINFO    [0m Test_Login:test_login_param.py:59 password -->admin1232
+[32mINFO    [0m Test_Login:test_login_param.py:61 Enter login
+[32mINFO    [0m Test_Login:test_login_param.py:91 Test case is Fail

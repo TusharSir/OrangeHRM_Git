@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Login:test_addemp.py:29 Test case Started
+[32mINFO    [0m Test_Login:test_addemp.py:30  Test case  Opneing url -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m Test_Login:test_addemp.py:35 Enter Username -->Admin
+[32mINFO    [0m Test_Login:test_addemp.py:37 password -->admin123
+[32mINFO    [0m Test_Login:test_addemp.py:39 Enter login

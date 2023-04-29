@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_Login:test_login.py:62 Test case Started
+[32mINFO    [0m Test_Login:test_login.py:63 Opneing url -->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+[32mINFO    [0m Test_Login:test_login.py:68 Enter Username -->Admin
+[32mINFO    [0m Test_Login:test_login.py:70 password -->admin123
+[32mINFO    [0m Test_Login:test_login.py:72 Enter login
+[32mINFO    [0m Test_Login:test_login.py:77 click on menu button
+[32mINFO    [0m Test_Login:test_login.py:81 click on logout button
+[32mINFO    [0m Test_Login:test_login.py:82 Test case is Pass
